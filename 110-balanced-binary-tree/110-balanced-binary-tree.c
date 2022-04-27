@@ -43,6 +43,5 @@ bool isBalanced(struct TreeNode* root) {
         return true;
     } else {
         return false;
-    }
-    
+    } 
 }
